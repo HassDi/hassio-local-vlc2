@@ -1,7 +1,7 @@
 {
-    "name": "Local VLC",
+    "name": "Local VLC 2",
     "version": "18",
-    "slug": "local_vlc",
+    "slug": "local_vlc_2",
     "description": "Play multimedia locally using VLC player",
     "url": "https://github.com/rodripf/hassio-local-vlc",    
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
