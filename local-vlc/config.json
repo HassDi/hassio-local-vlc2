@@ -7,14 +7,7 @@
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "startup": "application",
     "boot": "auto",
-    "options": {
-        "telnet_password": "mypassword",
-        "http_password": "mypassword"
-    },    
-    "schema": {
-        "telnet_password": "str",
-        "http_password": "str"
-    },
+    "options": 
     "audio": true,
     "ports":{
         "9893/tcp":9893,
