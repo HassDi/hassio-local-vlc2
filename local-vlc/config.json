@@ -1,6 +1,6 @@
 {
     "name": "Local VLC 2",
-    "version": "18",
+    "version": "19",
     "slug": "local_vlc_2",
     "description": "Play multimedia locally using VLC player",
     "url": "https://github.com/rodripf/hassio-local-vlc",    
@@ -17,9 +17,9 @@
     },
     "audio": true,
     "ports":{
-        "9892/tcp":9892,
-        "4212/tcp":4212
+        "9893/tcp":9893,
+        "4213/tcp":4213
     },
-    "webui": "http://[HOST]:[PORT:9892]/",
+    "webui": "http://[HOST]:[PORT:9893]/",
     "map": ["share:ro", "ssl"]
   }
